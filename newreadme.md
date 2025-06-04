@@ -49,4 +49,8 @@ Do this for both ETTh1 and ETTh2 blocks inside ETTh.sh.
 ✅ Then re-run:  
 
 bash ./script/ETTh.sh  
-That should finally solve the FileNotFoundError. Let me know if you want me to regenerate the fixed version of ETTh.sh for you.  
+That should finally solve the FileNotFoundError. 
+
+4.result  
+
+https://docs.google.com/document/d/1sZmea87t9Cp9lTt5LUuWGtzfuNVEZfMVIn9hW_YWCew/edit?tab=t.0  
