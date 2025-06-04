@@ -2,10 +2,10 @@
 1.type "bash ./script/ETTh.sh" since folder name is script instead of scripts
 
 2.Issue:
-AttributeError: `np.Inf` was removed in the NumPy 2.0 release. Use `np.inf` instead.
-This is a known breaking change introduced in NumPy 2.0.
+AttributeError: `np.Inf` was removed in the NumPy 2.0 release. Use `np.inf` instead.  
+This is a known breaking change introduced in NumPy 2.0.  
 
-✅ Fix: Modify tools.py
+✅ Fix: Modify tools.py  
 Edit the file:
 
 LLMsForTimeSeries/PAttn/utils/tools.py
